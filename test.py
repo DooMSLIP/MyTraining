@@ -8,3 +8,4 @@ def kalk(n):
 
 res = kalk(n)
 print(res)
+print(res)
