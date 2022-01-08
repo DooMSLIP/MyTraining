@@ -12,7 +12,6 @@ def print_triangle(n):
     i = 1
     while  i <= n:
         printing(i)
-        i = i + 3    
-    
+        i = i + 1      
 
 print_triangle (n)
