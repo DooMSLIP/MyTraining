@@ -1,4 +1,4 @@
-n = 5
+n = 7
 
 def printing(i):
     s = ''
@@ -12,7 +12,7 @@ def print_triangle(n):
     i = 1
     while  i <= n:
         printing(i)
-        i = i + 1    
+        i = i + 3    
     
 
 print_triangle (n)
